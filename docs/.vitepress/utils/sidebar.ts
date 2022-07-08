@@ -66,4 +66,4 @@ export const sidebar = {
       items: [{ text: 'Divider 分隔线', link: '/components/divider' }]
     }
   ]
-} as const
+}

@@ -9,14 +9,14 @@ export const nav = [
     activeMatch: '^/components/',
     link: '/components/button'
   },
-  {
-    text: '高阶组件',
-    activeMatch: '^/senior-components/',
-    link: ''
-  },
-  {
-    text: '联合组件',
-    activeMatch: '^/union-components/',
-    link: ''
-  }
-] as const
+  // {
+  //   text: '高阶组件',
+  //   activeMatch: '^/senior-components/',
+  //   link: ''
+  // },
+  // {
+  //   text: '联合组件',
+  //   activeMatch: '^/union-components/',
+  //   link: ''
+  // }
+]
