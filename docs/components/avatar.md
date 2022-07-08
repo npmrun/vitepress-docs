@@ -1,5 +1,10 @@
 # Avatar 头像
 
+`Avatar` 用于用户的头像展示
+
+- [源代码](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-components/avatar)
+- [文档编辑](https://github.com/FightingDesign/fighting-design/blob/master/docs/docs/components/avatar.md)
+
 ## 基本使用
 
 使用 `src` 属性设置图片的路径
@@ -146,6 +151,12 @@
 | `icon`       | icon 类名                                                                                                | string  | ——                                           | ——     |
 | `icon-size`  | icon 大小                                                                                                | string  | ——                                           | ——     |
 | `icon-color` | icon 的颜色                                                                                              | string  | ——                                           | ——     |
+
+## Contributors
+
+<a href="https://github.com/Tyh2001" target="_blank">
+  <f-avatar round src="https://avatars.githubusercontent.com/u/73180970?v=4" />
+</a>
 
 <style scoped>
 .f-avatar {

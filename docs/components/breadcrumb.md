@@ -1,5 +1,10 @@
 # Breadcrumb 面包屑
 
+`Breadcrumb` 用于管理页面的导航链接
+
+- [源代码](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-components/breadcrumb)
+- [文档编辑](https://github.com/FightingDesign/fighting-design/blob/master/docs/docs/components/breadcrumb.md)
+
 ## 基本使用
 
 在 `f-breadcrumb` 中使用 `f-breadcrumb-item` 标签表示从首页开始的多级导航，`f-breadcrumb` 组件接收一个 `String` 类型的参数 `separator` 来作为分隔符，当前默认为`/`
@@ -102,8 +107,8 @@
 | ----------------- | -------------- | -------- | ------ | ------ |
 | `separator`       | 分隔符         | `string` | ——     | ——     |
 | `icon-separator`  | icon 分隔符    | `string` | ——     | ——     |
-| `separator-color` | 分隔符颜色     | `string` | ——     | `gray` |
-| `item-color`      | 页面元素分隔符 | `string` | ——     | `gray` |
+| `separator-color` | 分隔符颜色     | `string` | ——     | ——     |
+| `item-color`      | 页面元素分隔符 | `string` | ——     | ——     |
 
 ## Breadcrumb Slots
 
@@ -123,6 +128,16 @@
 | 插槽名  | 说明           |
 | ------- | -------------- |
 | default | 自定义默认内容 |
+
+## Contributors
+
+<a href="https://github.com/Tyh2001" target="_blank">
+  <f-avatar round src="https://avatars.githubusercontent.com/u/73180970?v=4" />
+</a>
+
+<a href="https://github.com/onechuan" target="_blank">
+  <f-avatar round src="https://avatars.githubusercontent.com/u/98402209?v=4" />
+</a>
 
 <style scoped>
 .f-button {

@@ -1,5 +1,10 @@
 # Text 文字
 
+`Text` 是一段可配置灵活的文字
+
+- [源代码](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-components/text)
+- [文档编辑](https://github.com/FightingDesign/fighting-design/blob/master/docs/docs/components/text.md)
+
 ## 基本使用
 
 `type` 属性可以配置不同的文字类型，展示不同的颜色状态
@@ -239,6 +244,16 @@
 | 名称      | 说明        |
 | --------- | ----------- |
 | `default` | text 的内容 |
+
+## Contributors
+
+<a href="https://github.com/Tyh2001" target="_blank">
+  <f-avatar round src="https://avatars.githubusercontent.com/u/73180970?v=4" />
+</a>
+
+<a href="https://github.com/jardeng" target="_blank">
+  <f-avatar round src="https://avatars.githubusercontent.com/u/19302222?v=4" />
+</a>
 
 <style scoped>
 .f-text {

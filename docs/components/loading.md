@@ -1,5 +1,10 @@
 # Loading 加载
 
+`Loading` 用于加载状态的提示
+
+- [源代码](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-components/loading)
+- [文档编辑](https://github.com/FightingDesign/fighting-design/blob/master/docs/docs/components/loading.md)
+
 ## 基本使用
 
 `show` 属性可以控制是否展示 `loading` 加载
@@ -74,6 +79,15 @@
 | `text-size`  | 说明文字大小     | string  | ——     | ——     |
 | `background` | 遮罩层背景色     | string  | ——     | ——     |
 | `opacity`    | 遮罩层透明度     | number  | ——     | ——     |
+
+## Contributors
+
+<a href="https://github.com/Tyh2001" target="_blank">
+  <f-avatar round src="https://avatars.githubusercontent.com/u/73180970?v=4" />
+</a>
+<a href="https://github.com/yn22638" target="_blank">
+  <f-avatar round src="https://avatars.githubusercontent.com/u/48940123?v=4" />
+</a>
 
 <script setup>
   import { ref } from 'vue'
